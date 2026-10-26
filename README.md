@@ -15,7 +15,6 @@ LinkedIn: https://www.linkedin.com/in/siphephelo-zulu-3bb5373a8
 | `/tickets` | Incident investigations written as SOC tickets (HTB Sherlocks) |
 | `/certificates` | HTB Academy module completion PDFs |
 | `/notes` | Cheat sheets (MITRE ATT&CK, Windows event IDs) |
-| `/logbook` | Weekly WIL logbook entries |
 
 ## Progress
 
@@ -29,7 +28,6 @@ LinkedIn: https://www.linkedin.com/in/siphephelo-zulu-3bb5373a8
 | Sherlock 2 | Not started |
 | Sherlock 3 | Not started |
 
-(Update this table as you finish things. Only mark "Complete" when it is.)
 
 ## Ticket format
 Every report follows the same structure:
@@ -45,5 +43,3 @@ Every report follows the same structure:
 ## Tools and skills
 Windows event logs, Elastic (SIEM), phishing triage, log analysis, MITRE ATT&CK mapping, incident documentation.
 
-## Notes
-These reports are my own analysis. I don't publish flags, answers or platform content that HTB prohibits sharing.
