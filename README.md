@@ -14,7 +14,6 @@ LinkedIn: https://www.linkedin.com/in/siphephelo-zulu-3bb5373a8
 |---|---|
 | `/tickets` | Incident investigations written as SOC tickets (HTB Sherlocks) |
 | `/certificates` | HTB Academy module completion PDFs |
-| `/notes` | Cheat sheets (MITRE ATT&CK, Windows event IDs) |
 
 ## Progress
 
