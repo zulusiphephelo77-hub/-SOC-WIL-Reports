@@ -13,20 +13,27 @@ LinkedIn: https://www.linkedin.com/in/siphephelo-zulu-3bb5373a8
 | Folder | Contents |
 |---|---|
 | `/tickets` | Incident investigations written as SOC tickets (HTB Sherlocks) |
-| `/certificates` | HTB/Cisco Academy modules completion PDFs |
+| `/certificates` | Module badges and completion PDFs (HTB Academy, Cisco Networking Academy) |
+
+## Verified credentials
+Module badges live in this repo. Only full certifications go on my LinkedIn
+Licenses & certifications section.
+
+- Cisco badges (Credly): https://www.credly.com/users/siphephelo-zulu
+- HTB Academy profile: https://profile.hackthebox.com/profile/01a1581a-b8d7-7215-8f3f-e62877098f80?utm_medium=copy_url
 
 ## Progress
 
-| Item | Status |
-|---|---|
-| Linux Fundamentals | In progress |
-| Windows Fundamentals | Not started |
-| Networking basics | Not started |
-| SIEM / Elastic | Not started |
-| Sherlock 1: Brutus | Not started |
-| Sherlock 2 | Not started |
-| Sherlock 3 | Not started |
-
+| Item | Platform | Status |
+|---|---|---|
+| Introduction to Cybersecurity | Cisco | Complete |
+| Linux Fundamentals | HTB Academy | In progress |
+| Windows Fundamentals | HTB Academy | Not started |
+| Junior Cybersecurity Analyst path | Cisco | In progress |
+| Cybersecurity Defense Analyst path | Cisco | Not started |
+| Sherlock 1: Brutus | HTB | Not started |
+| Sherlock 2 | HTB | Not started |
+| Sherlock 3 | HTB | Not started |
 
 ## Ticket format
 Every report follows the same structure:
@@ -34,11 +41,12 @@ Every report follows the same structure:
 - **Date / Ticket #**
 - **Alert type**
 - **Investigation steps** (numbered)
-- **Tools used** (e.g. Elastic, VirusTotal, Event Viewer)
+- **Tools used** (e.g. Splunk, Elastic, VirusTotal, Event Viewer)
 - **Verdict** (true / false positive, with a one-line reason)
 - **MITRE ATT&CK ID**
 - **Recommended action** (containment or escalation)
 
-## Tools and skills
-Windows event logs, Elastic (SIEM), phishing triage, log analysis, MITRE ATT&CK mapping, incident documentation.
-
+## Skills I'm building
+Windows event logs and Sysmon, SIEM querying (Splunk, Elastic), phishing triage,
+log analysis, MITRE ATT&CK mapping, incident documentation.
+Each skill is backed by a ticket or logbook entry in this repo as I complete it.
